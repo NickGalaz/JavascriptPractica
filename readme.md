@@ -3,7 +3,7 @@
 ### Módulo 2
 ### Programación Básica en JavaScript
 
-## Unidad: 3 - Trabajo Práctico 4
+## Unidad: 2 - Trabajo Práctico 4
 
 #### Contenidos Desarrollados:
 
